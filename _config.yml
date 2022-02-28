@@ -126,6 +126,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/djkim0516/"
+    - label: "Youtube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/channel/UCtLcFjH6gDgbFaPndbTiCTg"
+
 
 # Site Footer
 footer:
