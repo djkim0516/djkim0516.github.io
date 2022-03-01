@@ -12,13 +12,15 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: Getting Started
+  - title: Categories
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "About"
+        url: /about/
+      # - title: "Quick-Start Guide"
+      #   url: /docs/quick-start-guide/
+      # - title: "Structure"
+      #   url: /docs/structure/
+      # - title: "Installation"
+      #   url: /docs/installation/
+      # - title: "Upgrading"
+      #   url: /docs/upgrading/
