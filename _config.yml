@@ -295,4 +295,4 @@ defaults:
       show_date: true
       date_format : "%b %d, %Y"
       sidebar:
-        nav: "docs"
+        nav: ""
