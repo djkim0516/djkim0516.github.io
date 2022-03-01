@@ -2,6 +2,8 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -14,8 +16,9 @@ main:
 docs:
   - title: Categories
     children:
-      - title: "About"
-        url: /about/
+      - title: "Quick-Start Guide"
+        url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
       # - title: "Quick-Start Guide"
       #   url: /docs/quick-start-guide/
       # - title: "Structure"
